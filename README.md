@@ -1,4 +1,4 @@
-#*Flixster2*
+# *Flixster*
 
 Submitted by: **Sakina Lougue**
 
